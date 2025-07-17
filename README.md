@@ -8,11 +8,9 @@
 
 NF = T1 + P1 + T2 + P2
 
-T1 (1 Ponto):
-
-P1 (4 Pontos):
-
+T1 (1 Ponto): <br>
+P1 (4 Pontos): <br>
 T2 (1 Ponto): <br>
-P2 (4 Pontos):
-AS (4 Pontos):
+P2 (4 Pontos): <br>
+AS (4 Pontos): 
 
