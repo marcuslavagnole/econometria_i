@@ -10,6 +10,6 @@
 
 **Testes**: T1 (1 Ponto) + T2 (1 Ponto)
 
-**Trabalho** (Opcional): TE (1 Ponto) - Opcional
+**Trabalho** (Opcional): TE (1 Ponto)
 
 **Nota Final**: P1 + T1 + P2 + T2 + TE 
