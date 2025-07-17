@@ -6,10 +6,11 @@
 
 ### Avaliação
 
-**Provas**: P1 (4 Pontos) + P2 (4 Pontos)
+**Provas**: P1 (4 Pontos) + P2 (4 Pontos) <br>
+**Testes**: T1 (1 Ponto) + T2 (1 Ponto)   <br>
+**Trabalho** (Opcional): TE (1 Ponto)     <br>
+**Nota Final**: P1 + T1 + P2 + T2 + TE    <br>
 
-**Testes**: T1 (1 Ponto) + T2 (1 Ponto)
+### Calendário
 
-**Trabalho** (Opcional): TE (1 Ponto)
-
-**Nota Final**: P1 + T1 + P2 + T2 + TE 
+**T1**: 
