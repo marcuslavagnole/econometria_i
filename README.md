@@ -21,5 +21,7 @@
 
 ### Notas de Aula
 
-As notas de aula serão atualizadas a medida que o curso se desenvolve. <br>
-**Aula 1**: Revisão
+As notas de aula serão atualizadas a medida que o curso se desenvolve. 
+
+**Aula 1**: Revisão <br>
+**Aula 2**: Regressão Linear Simples; Mínimos Quadrados Ordinários; Regressão múltipla: estimação, inferência <br>
