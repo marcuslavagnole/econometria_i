@@ -6,13 +6,10 @@
 
 ### Avaliação
 
-NF = T1 + P1 + T2 + P2
+**Provas**: P1 (4 Pontos) + P2 (4 Pontos)
 
-T1 (1 Ponto): <br>
-P1 (4 Pontos): <br>
-T2 (1 Ponto): <br>
-P2 (4 Pontos): <br>
-AS (4 Pontos): <br>
-Possibilidade de trabalho
+**Testes**: T1 (1 Ponto) + T2 (1 Ponto)
 
+**Trabalho** (Opcional): TE (1 Ponto) - Opcional
 
+**Nota Final**: P1 + T1 + P2 + T2 + TE 
