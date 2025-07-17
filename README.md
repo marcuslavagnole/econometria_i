@@ -21,9 +21,15 @@
 
 ### Notas de Aula
 
-As notas de aula serão atualizadas a medida que o curso se desenvolve. 
-
 **Aula 1**: Revisão <br>
 **Aula 2**: Regressão Linear Simples; Mínimos Quadrados Ordinários; Regressão múltipla: estimação, inferência <br>
 
 ### Bibliografia
+
+**Bibliografia básica**:
+
+- ANDERSON, D. R. Estatística Aplicada à Administração e Economia. 2ª edição. São Paulo: Pioneira, 2007.  <br>
+- MORETTIN, Pedro A.; BUSSAB, Wilton de Oliveira. Estatística básica. 5. ed. São Paulo: Saraiva, 2003.  <br>
+- DOANE, David P. SEWARD, Lori E. Estatística Aplicada à Administração e à Economia. São Paulo: Mc Graw Hill, 2008.  <br>
+
+  
