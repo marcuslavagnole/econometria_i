@@ -19,14 +19,14 @@
 **P2**: <br>
 **AS**: <br>
 
-### Notas de Aula
+## Notas de Aula
 
 **Aula 1**: Revisão <br>
 **Aula 2**: Regressão Linear Simples; Mínimos Quadrados Ordinários; Regressão múltipla: estimação, inferência <br>
 
-### Bibliografia
+## Bibliografia
 
-**Bibliografia básica**:
+### Bibliografia básica:
 
 - ANDERSON, D. R. Estatística Aplicada à Administração e Economia. 2ª edição. São Paulo: Pioneira, 2007.  <br>
 - MORETTIN, Pedro A.; BUSSAB, Wilton de Oliveira. Estatística básica. 5. ed. São Paulo: Saraiva, 2003.  <br>
