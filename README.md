@@ -18,3 +18,8 @@
 **T2**: <br>
 **P2**: <br>
 **AS**: <br>
+
+### Notas de Aula
+
+As notas de aula serão atualizadas a medida que o curso se desenvolve. <br>
+**Aula 1**: Revisão
