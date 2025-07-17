@@ -1,1 +1,1 @@
-# econometria_i
+# Econometria I
