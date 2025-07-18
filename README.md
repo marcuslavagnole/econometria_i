@@ -11,11 +11,13 @@
 **Trabalho** (Opcional): TE (1 Ponto)     <br>
 **Nota Final**: P1 + T1 + P2 + T2 + TE    <br>
 
-## Calendário
+## Cronograma
 
 **T1**: <br>
+**Aula de Exercício**: <br>
 **P1**: <br>
 **T2**: <br>
+**Aula de Exercício**: <br>
 **P2**: <br>
 **AS**: <br>
 
