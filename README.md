@@ -20,7 +20,7 @@
 **P1**: 9:50-11:40 <br>
 ------------------------------------------- <br>
 **T2**: <br>
-**Laboratório**: Semana anterior a prova 9:50-11:40 <br> <br>
+**Laboratório**: Semana anterior a prova 9:50-11:40 <br>
 **Aula de Exercício**: Dia da prova 7:30-9:20 <br>
 **P2**: <br>
 ------------------------------------------- <br>
