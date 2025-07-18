@@ -15,16 +15,16 @@
 
 ------------------------------------------- <br>
 **T1**: <br>
-**Laboratório**: <br>
-**Aula de Exercício**: <br>
-**P1**: <br>
+**Laboratório**: Semana anterior a prova 9:50-11:40 <br>
+**Aula de Exercício**: Dia da prova 7:30-9:20 <br>
+**P1**: 9:50-11:40 <br>
 ------------------------------------------- <br>
 **T2**: <br>
-**Laboratório**: <br>
-**Aula de Exercício**: <br>
+**Laboratório**: Semana anterior a prova 9:50-11:40 <br> <br>
+**Aula de Exercício**: Dia da prova 7:30-9:20 <br>
 **P2**: <br>
 ------------------------------------------- <br>
-**TE**: <br>
+**TE**: Dia da P2 até AS <br>
 **AS**: <br>
 
 ## Notas de Aula
