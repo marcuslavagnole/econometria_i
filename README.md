@@ -6,7 +6,7 @@
 
 ## Avaliação
 
-**Provas**: P1 (4 Pontos) + P2 (4 Pontos) <br>
+**Avaliações Parciais**: AP1 (4 Pontos) + AP2 (4 Pontos) <br>
 **Testes**: T1 (1 Ponto) + T2 (1 Ponto)   <br>
 **Trabalho** (Opcional): TE (1 Ponto)     <br>
 **Nota Final**: P1 + T1 + P2 + T2 + TE    <br>
@@ -15,17 +15,17 @@
 
 ------------------------------------------- <br>
 **T1**: <br>
-**Laboratório**: Semana anterior a prova 9:50-11:40 <br>
-**Aula de Exercício**: Dia da prova 7:30-9:20 <br>
-**P1**: 9:50-11:40 <br>
+**Laboratório**: 24/09/2025 (9:50-11:40) <br>
+**Aula de Exercício**: 01/10/2025 (7:30-9:20) <br>
+**AP1**: 01/10/2025 (9:50-11:40) <br>
 ------------------------------------------- <br>
 **T2**: <br>
-**Laboratório**: Semana anterior a prova 9:50-11:40 <br>
-**Aula de Exercício**: Dia da prova 7:30-9:20 <br>
-**P2**: <br>
+**Laboratório**: 12/11/2025 (9:50-11:40) <br>
+**Aula de Exercício**: 19/11/2025 (7:30-9:20) <br>
+**AP2**: 19/11/2025 (9:50-11:40) <br>
 ------------------------------------------- <br>
-**TE**: Dia da P2 até AS <br>
-**AS**: <br>
+**AS**: 26/11/2025 <br>
+**TE**: 03/12/2025 <br>
 
 ## Notas de Aula
 
