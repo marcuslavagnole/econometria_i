@@ -7,19 +7,19 @@
 ## Avaliação
 
 **Avaliações Parciais**: AP1 (4 Pontos) + AP2 (4 Pontos) <br>
-**Testes**: T1 (1 Ponto) + T2 (1 Ponto)   <br>
+**Avaliação Contínua**: AC1 (1 Ponto) + AC2 (1 Ponto)   <br>
 **Trabalho** (Opcional): TE (1 Ponto)     <br>
 **Nota Final**: P1 + T1 + P2 + T2 + TE    <br>
 
 ## Cronograma
 
 ------------------------------------------- <br>
-**T1**: <br>
+**AC1**: <br>
 **Laboratório**: 24/09/2025 (9:50-11:40) <br>
 **Aula de Exercício**: 01/10/2025 (7:30-9:20) <br>
 **AP1**: 01/10/2025 (9:50-11:40) <br>
 ------------------------------------------- <br>
-**T2**: <br>
+**AC2**: <br>
 **Laboratório**: 12/11/2025 (9:50-11:40) <br>
 **Aula de Exercício**: 19/11/2025 (7:30-9:20) <br>
 **AP2**: 19/11/2025 (9:50-11:40) <br>
