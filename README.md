@@ -32,8 +32,11 @@
 
 As notas de aula serão atualizadas à medida que o curso avançar.
 
-**Aula 1**: Revisão de Inferência Estatística; <br>
-**Aula 2**: Regressão Linear Simples; Mínimos Quadrados Ordinários; Regressão Linear Múltipla. <br>
+**Nota de aula 1**: Revisão de Inferência Estatística; <br>
+**Nota de aula 2**: Regressão Linear Simples, Mínimos Quadrados Ordinários, Regressão Linear Múltipla, Formas Funcionais; <br>
+**Nota de aula 3**: Violação de hipóteses: inclusão de variáveis irrelevantes, omissão de variáveis relevantes, autocorrelação, heterocedasticidade, multicolinearidade, não normalidade; <br>
+**Nota de aula 4**: Variáveis binárias: teste de estabilidade dos parâmetros, modelos probit, logit; <br>
+**Nota de aula 5**: Variáveis truncadas (modelo Tobit) e Sistema de Equações Simultâneas; <br>
 
 ## Bibliografia
 
