@@ -37,9 +37,10 @@ As notas de aula serão atualizadas à medida que o curso avançar.
 **Parte 0.1**: Revisão de Inferência Estatística; <br>
 **Parte 0.2**: Introdução; <br>
 **Parte 1**: Regressão Linear Simples, Mínimos Quadrados Ordinários, Regressão Linear Múltipla, Formas Funcionais; <br>
-**Parte 2**: Violação de hipóteses: inclusão de variáveis irrelevantes, omissão de variáveis relevantes, autocorrelação, heterocedasticidade, multicolinearidade, não normalidade; <br>
-**Parte 3**: Variáveis binárias: teste de estabilidade dos parâmetros, modelos probit, logit; <br>
-**Parte 4**: Variáveis truncadas (modelo Tobit) e Sistema de Equações Simultâneas; <br>
+**Parte 2**: Testes de hipótese assintóticos: Wald, Razão de Verossimilhança (RV) e Multiplicador de Lagrange (ML); <br>
+**Parte 3**: Violação de hipóteses: inclusão de variáveis irrelevantes, omissão de variáveis relevantes, autocorrelação, heterocedasticidade, multicolinearidade, não normalidade; <br>
+**Parte 4**: Variáveis binárias: teste de estabilidade dos parâmetros, modelos probit, logit; <br>
+**Parte 5**: Variáveis truncadas (modelo Tobit) e Sistema de Equações Simultâneas; <br>
 
 ## Bibliografia
 
