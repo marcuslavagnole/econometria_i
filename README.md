@@ -6,10 +6,10 @@
 
 ## Avaliação
 
-**Avaliações Parciais**: AP1 (4 Pontos) + AP2 (4 Pontos) <br>
-**Avaliação Contínua**: AC1 (1 Ponto) + AC2 (1 Ponto)   <br>
-**Trabalho** (Opcional): TE (1 Ponto)     <br>
-**Nota Final**: P1 + T1 + P2 + T2 + TE    <br>
+**Avaliações Parciais**: AP1 e AP2 <br>
+**Avaliação Contínua**: AC1 e AC2  <br>
+**Trabalho** (Opcional): TE1 e TE2 <br>
+**Nota Final**: 0.1 x AC1 + 0.4 x AP1 + 0.1 x TE1 + 0.1 x AC2 + 0.4 * AP2 + 0.1 x TE2    <br>
 
 ## Cronograma
 
