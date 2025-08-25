@@ -36,11 +36,14 @@ As notas de aula serão atualizadas à medida que o curso avançar.
 
 [Parte 0.1](https://github.com/marcuslavagnole/econometria_i/blob/main/slides/Parte01.pdf): Revisão de Inferência Estatística; <br>
 [Parte 0.2](https://github.com/marcuslavagnole/econometria_i/blob/main/slides/Parte02.pdf): Introdução; <br>
-**Parte 1**: Regressão Linear Simples, Mínimos Quadrados Ordinários, Regressão Linear Múltipla, Formas Funcionais; <br>
-**Parte 2**: Testes de hipótese assintóticos: Wald, Razão de Verossimilhança (RV) e Multiplicador de Lagrange (ML); <br>
-**Parte 3**: Violação de hipóteses: inclusão de variáveis irrelevantes, omissão de variáveis relevantes, autocorrelação, heterocedasticidade, multicolinearidade, não normalidade; <br>
-**Parte 4**: Variáveis binárias: teste de estabilidade dos parâmetros, modelos probit, logit; <br>
-**Parte 5**: Variáveis truncadas (modelo Tobit) e Sistema de Equações Simultâneas; <br>
+**Parte 1**: Regressão Linear Simples e Múltipla. <br>
+Parte 1.1: Regressão Linear Simples, Mínimos Quadrados Ordinários e Formas Funcionais; <br>
+Parte 1.2: Regressão Linear Múltipla (estimação e inferência) e Violação de hipóteses; <br>
+Parte 1.3: Testes de hipótese assintóticos: Wald, Razão de Verossimilhança (RV) e Multiplicador de Lagrange (ML). <br>
+**Parte 2**:
+Parte 2.1: Variáveis binárias: teste de estabilidade dos parâmetros, modelos probit, logit; <br>
+Parte 2.2: Variáveis truncadas (modelo Tobit); <br>
+Parte 2.3: Sistema de Equações Simultâneas.
 
 ## Bibliografia
 
