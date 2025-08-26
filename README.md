@@ -39,6 +39,7 @@ As notas de aula serão atualizadas à medida que o curso avançar.
 
 **Parte 1**: Regressão Linear Simples e Múltipla. <br>
   - [Parte 1.1](https://github.com/marcuslavagnole/econometria_i/blob/main/slides/Parte11.pdf): Regressão Linear Simples, Mínimos Quadrados Ordinários e Formas Funcionais; <br>
+    - Lista 1.1 
   - Parte 1.2: Regressão Linear Múltipla (estimação e inferência) e Violação de hipóteses; <br>
   - Parte 1.3: Testes de hipótese assintóticos: Wald, Razão de Verossimilhança (RV) e Multiplicador de Lagrange (ML). <br>
 
