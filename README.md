@@ -1,6 +1,6 @@
 # Econometria I
 
-**Objetivos**: Estudar os modelos de regressão linear simples e múltiplo aplicado a problemas econômicos com dados em corte transversal, bem como a solução de problemas a partir da não validade de premissas básicas do modelo clássico.
+**Objetivos**: Estudar os modelos de regressão linear simples e múltipla aplicados a problemas econômicos com dados em corte transversal, bem como a solução de problemas a partir da não validade de premissas básicas do modelo clássico.
 
 **Ementa**: Regressão Linear Simples; Mínimos Quadrados Ordinários; Regressão múltipla: estimação, inferência; Formas funcionais; Testes de hipótese assintóticos: Wald, Razão de Verossimilhança (RV) e Multiplicador de Lagrange (ML); Violação de hipóteses: inclusão de variáveis irrelevantes, omissão de variáveis relevantes, autocorrelação, heterocedasticidade, multicolinearidade, não normalidade; Variáveis binárias: teste de estabilidade dos parâmetros, modelos probit, logit; Variáveis truncadas: modelo Tobit; Sistema de Equações Simultâneas.
 
@@ -8,27 +8,27 @@
 
 **Avaliações Parciais**: AP1 e AP2 <br>
 **Avaliação Contínua**: AC1 e AC2  <br>
-**Trabalho** (Opcional): TE1 e TE2 <br>
-**Nota Final**: (0.1 x AC1 + 0.4 x AP1 + 0.1 x TE1) + (0.1 x AC2 + 0.4 * AP2 + 0.1 x TE2)    <br>
+<!-- **Trabalho** (Opcional): TE1 e TE2 <br> -->
+**Nota Final**: 0.2 x max{AC1,AC2} + 0.4 x AP1 + 0.4 * AP2 <br>
 
 ## Cronograma
 
 ------------------------------------------- <br>
-**Aula de Exercício**: 03/09/2025 (7:30-9:20) <br>
-**AC1**: 03/09/2025 (9:50-11:40) <br>
-**Laboratório**: 24/09/2025 (9:50-11:40) <br>
-**Aula de Exercício**: 01/10/2025 (7:30-9:20) <br>
-**AP1**: 01/10/2025 (9:50-11:40) <br>
+**Aula de Exercício**: 27/08/2025 (9:50-11:40) <br>
+**AC1**: 03/09/2025 (7:30-11:40) <br>
+<!-- **Laboratório**: 24/09/2025 (9:50-11:40) <br> -->
+**Aula de Exercício**: 24/09/2025 (9:50-11:40) <br>
+**AP1**: 01/10/2025 (7:30-9:20) <br>
 ------------------------------------------- <br>
 **Aula de Exercício**: 29/10/2025 (7:30-9:20) <br>
 **AC2**: 29/10/2025 (9:50-11:40) <br>
-**Laboratório**: 12/11/2025 (9:50-11:40) <br>
-**Aula de Exercício**: 19/11/2025 (7:30-9:20) <br>
-**AP2**: 19/11/2025 (9:50-11:40) <br>
+<!-- **Laboratório**: 12/11/2025 (9:50-11:40) <br> -->
+**Aula de Exercício**: 12/11/2025 (9:50-11:40) <br>
+**AP2**: 19/11/2025 (7:30-9:20) <br>
 ------------------------------------------- <br>
-**Aula de Exercício**: 26/11/2025 (7:30-9:20) <br>
-**AS**: 26/11/2025 (9:50-11:40) <br>
-**TE**: 03/12/2025 (7:30-9:20 e 9:50-11:40)<br>
+<!-- **Aula de Exercício**: 26/11/2025 (7:30-9:20) <br> -->
+**AS**: 26/11/2025 (7:30-9:20) <br>
+<!-- **TE**: 03/12/2025 (7:30-9:20 e 9:50-11:40)<br> -->
 
 ## Notas de Aula
 
