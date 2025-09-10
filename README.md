@@ -9,7 +9,7 @@
 **Avaliações Parciais**: AP1 e AP2 <br>
 **Avaliação Contínua**: AC1 e AC2  <br>
 <!-- **Trabalho** (Opcional): TE1 e TE2 <br> -->
-**Nota Final**: 0.2 x max{AC1,AC2} + 0.4 x AP1 + 0.4 * AP2 <br>
+**Nota Final**: 0.2 x max{AC1,AC2} + 0.4 x AP1 + 0.4 x AP2 <br>
 
 ## Cronograma
 
