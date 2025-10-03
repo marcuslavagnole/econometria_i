@@ -43,7 +43,7 @@ As notas de aula serão atualizadas à medida que o curso avançar.
   - [Parte 1.2](https://github.com/marcuslavagnole/econometria_i/blob/main/slides/Parte12.pdf): Regressão Linear Múltipla (estimação e inferência) e Violação de hipóteses; <br>
      - [Lista de exercícios](https://github.com/marcuslavagnole/econometria_i/blob/main/lists/Lista2.pdf)
      - [Exemplo](https://github.com/marcuslavagnole/econometria_i/blob/main/codes/ex_reglinear.Rmd)
-  - Parte 1.3: Testes de hipótese assintóticos: Wald, Razão de Verossimilhança (RV) e Multiplicador de Lagrange (ML). <br>
+  - [Parte 1.3](https://github.com/marcuslavagnole/econometria_i/blob/main/slides/Parte13.pdf): Testes de hipótese assintóticos: Wald, Razão de Verossimilhança (RV) e Multiplicador de Lagrange (ML). <br>
 
 **Parte 2**: <br>
   - Parte 2.1: Variáveis binárias: teste de estabilidade dos parâmetros, modelos probit, logit; <br>
