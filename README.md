@@ -47,7 +47,7 @@ As notas de aula serão atualizadas à medida que o curso avançar.
 
 **Parte 2**: <br>
   - [Parte 2.1](https://github.com/marcuslavagnole/econometria_i/blob/main/slides/Parte21.pdf): Variáveis binárias: teste de estabilidade dos parâmetros, modelos probit, logit; <br>
-     - [Exemplo](https://github.com/marcuslavagnole/econometria_i/blob/main/codes/ex_variaveisbinaria.Rmd)
+     - [Exemplo](https://github.com/marcuslavagnole/econometria_i/blob/main/codes/ex_variavelbinaria.Rmd)
   - Parte 2.2: Variáveis truncadas (modelo Tobit); <br>
   - Parte 2.3: Sistema de Equações Simultâneas.
 
