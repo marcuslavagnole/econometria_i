@@ -1,0 +1,103 @@
+---
+title: ""
+output:
+  pdf_document: default
+  html_document: default
+date: ""
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Modelos Logit e Probit
+
+Inicialmente, compararemos o comportamento de ambar funções (logit e probit).
+
+```{r}
+library(ggplot2)
+ggplot(data.frame(x = c(-5,5)), aes(x=x)) + 
+  stat_function(fun = pnorm, aes(colour = "Probit")) + 
+  stat_function(fun = plogis, aes(colour = "Logit")) + 
+  theme_bw() + 
+  scale_colour_manual(name = "Function G",values = c("red", "blue")) +
+  scale_y_continuous(name = "Pr(y = 1 | x)")
+```
+
+
+# Participação da Mulher no Mercado de Trabalho
+
+Neste exemplo, analisaremos um conjunto de dados conhecido como **mroz**. A base de dados contém 753 observações e é utilizada para investigar a participação de mulheres casadas na força de trabalho e renda.
+
+Em nossa análise, utilizaremos a participação da mulher no mercado de trabalho (infl) como variável resposta e a relacionaremos com diferentes variáveis independentes através dos modelos logit e probit.
+
+```{r}
+library(wooldridge)
+data("mroz"); head(mroz)
+```
+
+## Ajuste dos modelos
+
+Em nossa análise, utilizaremos o _software_ estatístico R. Para ajuste modelos logit e probit, aplicamos a função **glm**.
+
+Utilizaremos idade (age), número de crianças com menos de 6 anos no domicílio (kidslt6) e rendimento familiar subtraído da renda oriunda do trabalho (nwifeinc).
+
+### Probit
+
+```{r}
+probit <- glm(formula = inlf ~ age + kidslt6 + nwifeinc, 
+              data = mroz, 
+              family = binomial(link = "probit"))
+
+summary(probit)
+```
+
+### Logit
+
+```{r}
+logit <- glm(formula = inlf ~ age + kidslt6 + nwifeinc, 
+             data = mroz, 
+             family = binomial(link = "logit"))
+
+summary(logit)
+```
+
+## Efeito Parcial na Média (PEA)
+
+### Probit
+
+```{r}
+probitMean <- mfx::probitmfx(formula = inlf ~ age + kidslt6 + nwifeinc, 
+                             data = mroz, atmean = TRUE)
+
+probitMean
+```
+
+### Logit
+
+```{r}
+logitMean <- mfx::logitmfx(formula = inlf ~ age + kidslt6 + nwifeinc, 
+                           data = mroz, atmean = TRUE)
+
+logitMean
+```
+
+## Efeito Parcial Médio (APE)
+
+### Probit
+
+```{r}
+probitAvg <- mfx::probitmfx(formula = inlf ~ age + kidslt6 + nwifeinc, 
+                            data = mroz, atmean = FALSE)
+
+probitAvg
+```
+
+### Logit
+
+```{r}
+LogitAvg <- mfx::logitmfx(formula = inlf ~ age + kidslt6 + nwifeinc, 
+                          data = mroz, atmean = FALSE)
+
+LogitAvg
+```
