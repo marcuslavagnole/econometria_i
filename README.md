@@ -46,7 +46,7 @@ As notas de aula serão atualizadas à medida que o curso avançar.
   - [Parte 1.3](https://github.com/marcuslavagnole/econometria_i/blob/main/slides/Parte13.pdf): Testes de hipótese assintóticos: Wald, Razão de Verossimilhança (RV) e Multiplicador de Lagrange (ML). <br>
 
 **Parte 2**: <br>
-  - [Parte 2.1](https://github.com/marcuslavagnole/econometria_i/blob/main/slides/Parte21.pdf): Variáveis binárias: teste de estabilidade dos parâmetros, modelos probit, logit; <br>
+  - [Parte 2.1](https://github.com/marcuslavagnole/econometria_i/blob/main/slides/Parte21.pdf): Variáveis binárias: teste de estabilidade dos parâmetros, modelos probit e logit; <br>
      - [Lista de exercícios](https://github.com/marcuslavagnole/econometria_i/blob/main/lists/Lista3.pdf)
      - [Exemplo](https://github.com/marcuslavagnole/econometria_i/blob/main/codes/ex_variavelbinaria.Rmd)
   - Parte 2.2: Variáveis truncadas (modelo Tobit); <br>
