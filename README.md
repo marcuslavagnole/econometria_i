@@ -34,8 +34,8 @@
 
 As notas de aula serão atualizadas à medida que o curso avançar.
 
-[Aula 0.1](https://github.com/marcuslavagnole/econometria_i/blob/main/slides/Parte01.pdf): Revisão de Inferência Estatística; <br>
-[Aula 0.2](https://github.com/marcuslavagnole/econometria_i/blob/main/slides/Parte02.pdf): Introdução; <br>
+[Aula 0.1](https://github.com/marcuslavagnole/econometria_i/blob/main/slides/Aula01.pdf): Revisão de Inferência Estatística; <br>
+[Aula 0.2](https://github.com/marcuslavagnole/econometria_i/blob/main/slides/Aula02.pdf): Introdução; <br>
 
 **Parte 1**: Regressão Linear Simples e Múltipla. <br>
   - [Aula 1.1](https://github.com/marcuslavagnole/econometria_i/blob/main/slides/Parte11.pdf): Regressão Linear Simples, Mínimos Quadrados Ordinários e Formas Funcionais; <br>
