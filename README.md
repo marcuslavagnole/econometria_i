@@ -34,16 +34,16 @@
 
 As notas de aula serão atualizadas à medida que o curso avançar.
 
-[Parte 0.1](https://github.com/marcuslavagnole/econometria_i/blob/main/slides/Parte01.pdf): Revisão de Inferência Estatística; <br>
-[Parte 0.2](https://github.com/marcuslavagnole/econometria_i/blob/main/slides/Parte02.pdf): Introdução; <br>
+[Aula 0.1](https://github.com/marcuslavagnole/econometria_i/blob/main/slides/Parte01.pdf): Revisão de Inferência Estatística; <br>
+[Aula 0.2](https://github.com/marcuslavagnole/econometria_i/blob/main/slides/Parte02.pdf): Introdução; <br>
 
 **Parte 1**: Regressão Linear Simples e Múltipla. <br>
-  - [Parte 1.1](https://github.com/marcuslavagnole/econometria_i/blob/main/slides/Parte11.pdf): Regressão Linear Simples, Mínimos Quadrados Ordinários e Formas Funcionais; <br>
+  - [Aula 1.1](https://github.com/marcuslavagnole/econometria_i/blob/main/slides/Parte11.pdf): Regressão Linear Simples, Mínimos Quadrados Ordinários e Formas Funcionais; <br>
     - [Lista de exercícios](https://github.com/marcuslavagnole/econometria_i/blob/main/lists/Lista1.pdf)
-  - [Parte 1.2](https://github.com/marcuslavagnole/econometria_i/blob/main/slides/Parte12.pdf): Regressão Linear Múltipla (estimação e inferência) e Violação de hipóteses; <br>
+  - [Aula 1.2](https://github.com/marcuslavagnole/econometria_i/blob/main/slides/Parte12.pdf): Regressão Linear Múltipla (estimação e inferência) e Violação de hipóteses; <br>
      - [Lista de exercícios](https://github.com/marcuslavagnole/econometria_i/blob/main/lists/Lista2.pdf)
      - [Exemplo](https://github.com/marcuslavagnole/econometria_i/blob/main/codes/ex_reglinear.Rmd)
-  - [Parte 1.3](https://github.com/marcuslavagnole/econometria_i/blob/main/slides/Parte13.pdf): Testes de hipótese assintóticos: Wald, Razão de Verossimilhança (RV) e Multiplicador de Lagrange (ML). <br>
+  - [Aula 1.3](https://github.com/marcuslavagnole/econometria_i/blob/main/slides/Parte13.pdf): Testes de hipótese assintóticos: Wald, Razão de Verossimilhança (RV) e Multiplicador de Lagrange (ML). <br>
 
 **Parte 2**: <br>
   - [Parte 2.1](https://github.com/marcuslavagnole/econometria_i/blob/main/slides/Parte21.pdf): Variáveis binárias - modelos probit e logit; <br>
