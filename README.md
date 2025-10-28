@@ -49,6 +49,11 @@ As notas de aula serão atualizadas à medida que o curso avançar.
   - Aula 2.2: Variáveis truncadas - modelo Tobit; <br>
   - Aula 2.3: Sistema de Equações Simultâneas.
 
+## Listas de Exercícios
+
+  - Lista 1: Regressão Simple e Múltipla; <br>
+  - Lista 2: Modelos Logit, Probit e Tobit.
+
 ## Bibliografia
 
 ### Bibliografia básica:
