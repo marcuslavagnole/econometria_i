@@ -34,7 +34,7 @@ As notas de aula serão atualizadas à medida que o curso avançar.
 
 ## Listas de Exercícios
 
-  - Lista 1: Regressão Simple e Múltipla; <br>
+  - Lista 1: Regressão Simples e Múltipla; <br>
   - Lista 2: Modelos Logit, Probit e Tobit.
 
 ## Bibliografia
