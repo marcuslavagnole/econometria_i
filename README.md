@@ -34,8 +34,8 @@ As notas de aula serão atualizadas à medida que o curso avançar.
 
 ## Listas de Exercícios
 
-  - Lista 1: Regressão Simples e Múltipla; <br>
-  - Lista 2: Modelos Logit, Probit e Tobit.
+  - [Lista 1](https://github.com/marcuslavagnole/econometria_i/blob/main/lists/Lista1.pdf): Regressão Simples e Múltipla; <br>
+  - [Lista 2](https://github.com/marcuslavagnole/econometria_i/blob/main/lists/Lista2.pdf): Modelos Logit, Probit e Tobit.
 
 ## Bibliografia
 
