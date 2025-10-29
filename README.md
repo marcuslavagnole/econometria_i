@@ -27,7 +27,7 @@ As notas de aula serão atualizadas à medida que o curso avançar.
 **Parte 2**: <br>
   - [Aula 2.1](https://github.com/marcuslavagnole/econometria_i/blob/main/slides/Parte21.pdf): Variáveis binárias - modelos probit e logit; <br>
      - [Exemplo](https://github.com/marcuslavagnole/econometria_i/blob/main/exemplos/ex_variavelbinaria.pdf)
-  - Aula 2.2: Variáveis truncadas - modelo Tobit; <br>
+  - [Aula 2.2](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula22.pdf): Variáveis truncadas - modelo Tobit; <br>
     - Exemplo
   - Aula 2.3: Sistema de Equações Simultâneas.
     - Exemplo
