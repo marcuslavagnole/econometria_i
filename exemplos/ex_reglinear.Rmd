@@ -1,0 +1,72 @@
+---
+title: ""
+output:
+  pdf_document: default
+  html_document: default
+date: ""
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Análise de Regressão Linear
+
+Neste exemplo, analisaremos um conjunto de dados conhecido como **mtcars**. A base de dados contém características de diferentes modelos de carros e descreve como tais características se relacionam com o consumo de combustível medido em galões por milha (mpg).
+
+Em nossa análise, utilizaremos o peso do automóvel (wt) como variável independente e a relacionaremos com a variável dependente (mpg) através de um modelo de regressão linear simples.
+
+```{r}
+library(ggplot2)
+data("mtcars"); head(mtcars)
+```
+
+## Ajuste da regressão linear
+
+Em nossa análise, utilizaremos o _software_ estatístico R. Para modelos de regressão linear (simples ou múltipla), a aplica-se a função **lm**.
+
+```{r}
+fit <- lm(mpg ~ wt, data = mtcars) # fit the model
+summary(fit)
+```
+
+Uma vez ajustado o modelo, podemos visualizar a reta resultante e os dados observados. A figura a seguir apresenta graficamente o tamanho do valor do resíduo atrevés da cor e do tamanho do ponto.
+
+
+```{r}
+mtcars$predicted <- predict(fit)   # Save the predicted values
+mtcars$residuals <- residuals(fit) # Save the residual values
+ggplot(mtcars, aes(x = wt, y = mpg)) +
+  # regression line  
+  geom_smooth(method = "lm", se = FALSE, color = "lightgrey") +
+  # draw line from point to line
+  geom_segment(aes(xend = wt, yend = predicted), alpha = .2) +  
+  # size of the points
+  geom_point(aes(color = abs(residuals), size = abs(residuals))) + 
+  # colour of the points mapped to residual size - green smaller, red larger
+  scale_color_continuous(low = "green", high = "red") +  
+  # Size legend removed
+  guides(color = "none", size = "none") +                             
+  geom_point(aes(y = predicted), shape = 1) +
+  theme_bw()
+```
+
+## Análise de resíduos
+
+Em um modelo de regressão linear, os resíduos representam a variação que não foi explicada.
+
+Usualmente, regresentações gráficas dos resíduos são utilizadas com o intuito de identificar padrões que indiquem, possivelmente, que o modelo possa não estar corretamente especificado.
+
+```{r}
+plot(fit, which=1, col=c("blue")) # Residuals vs Fitted Plot
+```
+De acordo com as suposições dos modelos de regressão linear, assumimos que os erros possuem distribuição normal. A forma mais comum de verificar se tal suposição é satisfeita se dá ao representarmos os resíduos através de um _Q-Q plot_ (_quantile-quantile plot_).
+
+```{r}
+plot(fit, which=2, col=c("red"))  # Q-Q Plot
+```
+Outra suposição do modelo assume variância constante nos modelos de regressão linear. Tal suposição pode ser verificada observando se os resíduos possuem ou não variância constante.
+
+```{r}
+plot(fit, which=3, col=c("blue"))  # Scale-Location Plot
+```
