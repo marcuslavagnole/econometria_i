@@ -21,7 +21,7 @@ As notas de aula serão atualizadas à medida que o curso avançar.
 **Parte 1**: Regressão Linear Simples e Múltipla. <br>
   - [Aula 1.1](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula11.pdf): Regressão Linear Simples, Mínimos Quadrados Ordinários e Formas Funcionais; <br>
   - [Aula 1.2](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula12.pdf): Regressão Linear Múltipla (estimação e inferência) e Violação de hipóteses; <br>
-     - [Exemplo](https://github.com/marcuslavagnole/econometria_i/blob/main/exemplos/ex_reglinear.pdf)
+     - [Análise de Resíduos](https://github.com/marcuslavagnole/econometria_i/blob/main/exemplos/ex_reglinear.pdf)
   - [Aula 1.3](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula13.pdf): Testes de hipótese assintóticos: Wald, Razão de Verossimilhança (RV) e Multiplicador de Lagrange (ML). <br>
 
 **Parte 2**: <br>
