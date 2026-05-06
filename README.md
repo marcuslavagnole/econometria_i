@@ -34,8 +34,11 @@ As notas de aula serão atualizadas à medida que o curso avançar.
 
 ## Listas de Exercícios
 
-  - [Lista 1](https://github.com/marcuslavagnole/econometria_i/blob/main/listas/Lista1.pdf): Regressão Simples e Múltipla; <br>
-  - [Lista 2](https://github.com/marcuslavagnole/econometria_i/blob/main/listas/Lista2.pdf): Modelos Logit, Probit e Tobit.
+  - [Lista 1](https://github.com/marcuslavagnole/econometria_i/blob/main/listas/Lista1.pdf): Regressão Linear Simples; <br>
+  - [Lista 2](https://github.com/marcuslavagnole/econometria_i/blob/main/listas/Lista1.pdf): Regressão Linear Múltipla; <br>
+  - [Lista 3](https://github.com/marcuslavagnole/econometria_i/blob/main/listas/Lista2.pdf): Variáveis binárias - modelos probit e logit; <br>
+  - [Lista 4](https://github.com/marcuslavagnole/econometria_i/blob/main/listas/Lista2.pdf): Variáveis truncadas - modelo Tobit; <br>
+  - [Lista 5](https://github.com/marcuslavagnole/econometria_i/blob/main/listas/Lista2.pdf): Sistema de Equações Simultâneas.
 
 ## Bibliografia
 
