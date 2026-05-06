@@ -26,10 +26,9 @@ As notas de aula serão atualizadas à medida que o curso avançar.
 
 **Parte 2**: <br>
   - Aula 2.1: Variáveis Binárias - Modelos Probit e Logit. <br>
-   <!--  - [Exemplo](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula12_analise_residuos.pdf)  -->
   - Aula 2.2: Variáveis Truncadas - Modelo Tobit. <br>
   - Aula 2.3: Sistema de Equações Simultâneas.
-
+<!--  - [Exemplo](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula12_analise_residuos.pdf)  -->
 ## Listas de Exercícios
 
   - [Lista 1](): Regressão Linear Simples. <br>
