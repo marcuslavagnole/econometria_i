@@ -18,16 +18,16 @@ As notas de aula serão atualizadas à medida que o curso avançar.
 [Aula 0.1](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula01.pdf): Revisão de Inferência Estatística; <br>
 [Aula 0.2](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula02.pdf): Introdução; <br>
 
-**Parte 1**: Regressão Linear Simples e Múltipla. <br>
+**Parte 1**: <br>
   - [Aula 1.1](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula11.pdf): Regressão Linear Simples, Mínimos Quadrados Ordinários e Formas Funcionais; <br>
   - [Aula 1.2](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula12.pdf): Regressão Linear Múltipla (estimação e inferência) e Violação de hipóteses; <br>
      - [Análise de Resíduos](https://github.com/marcuslavagnole/econometria_i/blob/main/exemplos/ex_reglinear.pdf)
   - [Aula 1.3](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula13.pdf): Testes de hipótese assintóticos: Wald, Razão de Verossimilhança (RV) e Multiplicador de Lagrange (ML). <br>
 
 **Parte 2**: <br>
-  - [Aula 2.1](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula21.pdf): Variáveis binárias - modelos probit e logit; <br>
+  - [Aula 2.1](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula21.pdf): Variáveis Binárias - Modelos Probit e Logit; <br>
      - [Exemplo](https://github.com/marcuslavagnole/econometria_i/blob/main/exemplos/ex_variavelbinaria.pdf)
-  - [Aula 2.2](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula22.pdf): Variáveis truncadas - modelo Tobit; <br>
+  - [Aula 2.2](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula22.pdf): Variáveis Truncadas - Modelo Tobit; <br>
   - [Aula 2.3](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula23.pdf): Sistema de Equações Simultâneas.
 
 ## Listas de Exercícios
