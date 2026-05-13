@@ -25,7 +25,7 @@ As notas de aula serão atualizadas à medida que o curso avançar.
   - [Aula 1.3](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula13.pdf): Testes de hipótese assintóticos. <br>
 
 **Parte 2**: <br>
-  - Aula 2.1: Variáveis Binárias - Modelos Probit e Logit. <br>
+  - [Aula 2.1](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula21.pdf): Variáveis Binárias - Modelos Probit e Logit. <br>
   - Aula 2.2: Variáveis Truncadas - Modelo Tobit. <br>
   - Aula 2.3: Sistema de Equações Simultâneas.
 <!--  - [Exemplo](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula12_analise_residuos.pdf)  -->
