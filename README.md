@@ -34,7 +34,7 @@ As notas de aula serão atualizadas à medida que o curso avançar.
   - [Lista 1](https://github.com/marcuslavagnole/econometria_i/blob/main/listas/Lista1.pdf): Regressão Linear Simples. <br>
   - [Lista 2](https://github.com/marcuslavagnole/econometria_i/blob/main/listas/Lista2.pdf): Regressão Linear Múltipla. <br>
   - [Lista 3](https://github.com/marcuslavagnole/econometria_i/blob/main/listas/Lista3.pdf): Variáveis Binárias - Modelos Probit e Logit. <br>
-  - Lista 4: Variáveis Truncadas - Modelo Tobit. <br>
+  - [Lista 4](https://github.com/marcuslavagnole/econometria_i/blob/main/listas/Lista4.pdf): Variáveis Truncadas - Modelo Tobit. <br>
   - Lista 5: Sistema de Equações Simultâneas.
 
 ## Bibliografia
