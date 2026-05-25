@@ -28,7 +28,7 @@ As notas de aula serão atualizadas à medida que o curso avançar.
   - [Aula 2.1](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula21.pdf): Variáveis Binárias - Modelos Probit e Logit. <br>
      - [Exemplo](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula21_exemplo.pdf): Participação da Mulher no Mercado de Trabalho
   - [Aula 2.2](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula22.pdf): Variáveis Truncadas - Modelo Tobit. <br>
-  - Aula 2.3: Sistema de Equações Simultâneas.
+  - [Aula 2.3](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula23.pdf): Sistema de Equações Simultâneas.
 <!--  - [Exemplo](https://github.com/marcuslavagnole/econometria_i/blob/main/aulas/Aula12_analise_residuos.pdf)  -->
 ## Listas de Exercícios
 
@@ -36,7 +36,7 @@ As notas de aula serão atualizadas à medida que o curso avançar.
   - [Lista 2](https://github.com/marcuslavagnole/econometria_i/blob/main/listas/Lista2.pdf): Regressão Linear Múltipla. <br>
   - [Lista 3](https://github.com/marcuslavagnole/econometria_i/blob/main/listas/Lista3.pdf): Variáveis Binárias - Modelos Probit e Logit. <br>
   - [Lista 4](https://github.com/marcuslavagnole/econometria_i/blob/main/listas/Lista4.pdf): Variáveis Truncadas - Modelo Tobit. <br>
-  - Lista 5: Sistema de Equações Simultâneas.
+  - [Lista 5](https://github.com/marcuslavagnole/econometria_i/blob/main/listas/Lista5.pdf): Sistema de Equações Simultâneas.
 
 ## Bibliografia
 
